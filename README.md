@@ -6,9 +6,9 @@
 ## 🪄 My Stack
 
 **Skills**  
-<img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=HTML5&logoColor=ff5e57"><img src="https://img.shields.io/badge/CSS3-fff?
-style=for-the-badge&logo=CSS3&logoColor=4bcffa"><img src="https://img.shields.io/badge/javascript-fff?style=for-the-badge&logo=javascript&logoColor=ffd32a"><img src="https://img.shields.io/badge/jQuery-fff?
-style=for-the-badge&logo=jQuery&logoColor=c56cf0"><img src="https://img.shields.io/badge/typescript-fff?style=for-the-badge&logo=typescript&logoColor=3178C6"><img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=React&logoColor=0fbcf9"><img src="https://img.shields.io/badge/Next.js-fff?style=for-the-badge&logo=Next.js&logoColor=000"><img src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&logo=Node.js&logoColor=339933">
+<img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=HTML5&logoColor=ff5e57">
+<img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=CSS3&logoColor=4bcffa"><img src="https://img.shields.io/badge/javascript-fff?style=for-the-badge&logo=javascript&logoColor=ffd32a">
+<img src="https://img.shields.io/badge/jQuery-fff?style=for-the-badge&logo=jQuery&logoColor=c56cf0"><img src="https://img.shields.io/badge/typescript-fff?style=for-the-badge&logo=typescript&logoColor=3178C6"><img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=React&logoColor=0fbcf9"><img src="https://img.shields.io/badge/Next.js-fff?style=for-the-badge&logo=Next.js&logoColor=000"><img src="https://img.shields.io/badge/Node.js-fff?style=for-the-badge&logo=Node.js&logoColor=339933">
 </br></br>
 **Tools**  
 <img src="https://img.shields.io/badge/Visual Studio Code-fff?style=for-the-badge&logo=Visual Studio Code&logoColor=34ace0"><img src="https://img.shields.io/badge/WebStorm-fff?style=for-the-badge&logo=WebStorm&logoColor=000"><img src="https://img.shields.io/badge/Heroku-fff?style=for-the-badge&logo=Heroku&logoColor=575fcf"><img src="https://img.shields.io/badge/Notion-fff?style=for-the-badge&logo=Notion&logoColor=4b4b4b">
@@ -20,6 +20,7 @@ style=for-the-badge&logo=jQuery&logoColor=c56cf0"><img src="https://img.shields.
 -   **2020~: [📚 Blog](https://jinyisland.kr)**
 -   **2019 ~ 2022**: Mobilecnc
 -   **2022: [Wanted Preonboarding](https://github.com/orgs/preonboarding-FE-6team/repositories)**
+</br>
     | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yondo123&exclude_repo=yondo123.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yondo123&show_icons=true&theme=tokyonight) |
     | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
 </br>

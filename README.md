@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<!--
-**yondo123/yondo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **yondo123/yondo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🐜 성장을 위해서라면 몸이 힘들어도 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yondo123&exclude_repo=yondo123.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yondo123&show_icons=true&theme=tokyonight)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyondo123&count_bg=%23546DE5&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8B&edge_flat=false)](https://hits.seeyoufarm.com)

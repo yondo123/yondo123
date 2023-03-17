@@ -20,7 +20,7 @@
 -   **2020~: [📚 Blog](https://jinyisland.kr)**
 -   **2019 ~ 2022**: Mobilecnc
 -   **2022: [Wanted Preonboarding](https://github.com/orgs/preonboarding-FE-6team/repositories)**
-    | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yondo123&exclude_repo=yondo123.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yondo123&show_icons=true&theme=tokyonight) |
+    | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yondo123&exclude_repo=yondo123.github.io&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yondo123&show_icons=true&theme=vue) |
     | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
 </br>
 </br>

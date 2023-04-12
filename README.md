@@ -1,7 +1,8 @@
 ## 👋 Hi there
 
 안녕하세요. `Frontend` 기술에 흥미가 많은 개발자 최승진이라고 합니다.  
-성장을 위해서라면 꾸준히 배우고, 직접 시도해보는 것이 중요하다고 생각합니다. 😇
+성장을 위해서 배움에 욕심이 많고, 기록과 공유를 적극적으로 하는 것이 중요하다고 생각합니다. 😇
+
 </br></br>
 </br></br>
 
@@ -19,8 +20,8 @@
 
 ## 🏃 Experience
 
+- **[📚 Blog](https://jinyisland.kr)**
 - **2019 :** 멋쟁이 사자처럼 7기 운영진 활동
-- **2020~: [📚 Blog](https://jinyisland.kr)**
 - **2019 ~ 2022**: Mobilecnc
 - **2022: [Wanted Preonboarding](https://github.com/orgs/preonboarding-FE-6team/repositories)**
   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yondo123&exclude_repo=yondo123.github.io&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yondo123&show_icons=true&theme=vue) |
@@ -30,6 +31,6 @@
 
 ## 📨 Contract
 
-  <yondo123@gmail.com>
+<yondo123@gmail.com>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyondo123&count_bg=%23546DE5&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8B&edge_flat=false)](https://hits.seeyoufarm.com)

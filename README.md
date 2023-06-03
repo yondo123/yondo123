@@ -32,6 +32,11 @@
 ## 📚 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[React] React에서 우아하게 비동기 처리하기](https://jinyisland.kr/post/react-awesome-fetching/)
+- [Polyfill이 무엇인가요??](https://jinyisland.kr/post/polyfill-and-babel/)
+- [[React] Ref의 개념과 useImperativeHandle, Uncontrolled form](https://jinyisland.kr/post/react-ref/)
+- [[Redux] Redux 사용해보기](https://jinyisland.kr/post/redux/)
+- [[Sass] Mixin 사용해보기](https://jinyisland.kr/post/sass-mixin/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📨 Contract

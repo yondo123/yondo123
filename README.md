@@ -3,9 +3,6 @@
 안녕하세요. `Frontend` 기술에 흥미가 많은 개발자 최승진이라고 합니다.  
 성장을 위해서 배움에 욕심이 많고, 기록과 공유를 적극적으로 하는 것이 중요하다고 생각합니다. 😇
 
-</br></br>
-</br></br>
-
 ## 🪄 My Stack
 
 **Skills**  
@@ -15,8 +12,6 @@
 </br></br>
 **Tools**  
 <img src="https://img.shields.io/badge/Visual Studio Code-fff?style=for-the-badge&logo=Visual Studio Code&logoColor=34ace0"><img src="https://img.shields.io/badge/WebStorm-fff?style=for-the-badge&logo=WebStorm&logoColor=000"><img src="https://img.shields.io/badge/Heroku-fff?style=for-the-badge&logo=Heroku&logoColor=575fcf"><img src="https://img.shields.io/badge/Notion-fff?style=for-the-badge&logo=Notion&logoColor=4b4b4b">
-</br></br>
-</br></br>
 
 ## 🏃 Experience
 
@@ -26,12 +21,11 @@
 - **2022: [Wanted Preonboarding](https://github.com/orgs/preonboarding-FE-6team/repositories)**
   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yondo123&exclude_repo=yondo123.github.io&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yondo123&show_icons=true&theme=vue) |
   | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
-  </br>
-  </br>
 
 ## 📚 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [[React] React에서 우아하게 비동기 처리하기](https://jinyisland.kr/post/react-awesome-fetching/)
 - [Polyfill이 무엇인가요??](https://jinyisland.kr/post/polyfill-and-babel/)
 - [[React] Ref의 개념과 useImperativeHandle, Uncontrolled form](https://jinyisland.kr/post/react-ref/)

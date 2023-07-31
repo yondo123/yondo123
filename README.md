@@ -25,11 +25,11 @@
 ## 📚 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical Rendering Path와 렌더링 최적화 기법](https://jinyisland.kr/post/crp/)
 - [JavaScript생태계의 유한 상태기계, XState 도입기](https://jinyisland.kr/post/xstate-react/)
 - [React는 왜 선언형 프로그래밍을 지향할까?](https://jinyisland.kr/post/react-with-declarative/)
 - [🦋 Changeset을 활용한 모노레포 자동 배포 구축하기](https://jinyisland.kr/post/changeset/)
 - [[React] React에서 우아하게 비동기 처리하기](https://jinyisland.kr/post/react-awesome-fetching/)
-- [Polyfill이 무엇인가요??](https://jinyisland.kr/post/polyfill-and-babel/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📨 Contract

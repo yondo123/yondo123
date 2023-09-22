@@ -25,11 +25,11 @@
 ## 📚 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[CS 네트워크 스터디] 2주차 학습 내용](https://jinyisland.kr/post/network-study-week-2/)
 - [[CS 네트워크 스터디] 1주차 학습 내용](https://jinyisland.kr/post/network-study-week-1/)
 - [패키저매니저 돌아보기](https://jinyisland.kr/post/package-manager/)
 - [Critical Rendering Path와 렌더링 최적화 기법](https://jinyisland.kr/post/crp/)
 - [JavaScript생태계의 유한 상태기계, XState 도입기](https://jinyisland.kr/post/xstate-react/)
-- [React는 왜 선언형 프로그래밍을 지향할까?](https://jinyisland.kr/post/react-with-declarative/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📨 Contract

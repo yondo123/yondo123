@@ -25,11 +25,11 @@
 ## 📚 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [번들러와 모듈 시스템](https://jinyisland.kr/post/bundle-and-module/)
 - [모의면접 기반 CS 네트워크 스터디 참여회고](https://jinyisland.kr/post/network-study-finale/)
 - [[CS 네트워크 스터디] 5주차 학습 내용](https://jinyisland.kr/post/network-study-week-5/)
 - [[CS 네트워크 스터디] 4주차 학습 내용](https://jinyisland.kr/post/network-study-week-4/)
 - [[CS 네트워크 스터디] 3주차 학습 내용](https://jinyisland.kr/post/network-study-week-3/)
-- [[CS 네트워크 스터디] 2주차 학습 내용](https://jinyisland.kr/post/network-study-week-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📨 Contract
